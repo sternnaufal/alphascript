@@ -1,0 +1,16 @@
+{
+  "name": "alphascript",
+  "version": "1.0.1",
+  "main": "index.obf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sternnaufal/alphascript.git"
+  },
+  "keywords": ["AlphaScript", "Gen Alpha", "JavaScript", "Slang"],
+  "author": "Naufal Rakha Putra",
+  "license": "MIT",
+  "description": "AlphaScript: Gen Alpha slang for sigma rizz!"
+}
